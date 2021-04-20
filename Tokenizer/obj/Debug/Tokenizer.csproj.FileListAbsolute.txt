@@ -1,0 +1,6 @@
+/Users/ziyad/Projects/Tokenizer/Tokenizer/bin/Debug/Tokenizer.exe
+/Users/ziyad/Projects/Tokenizer/Tokenizer/bin/Debug/Tokenizer.pdb
+/Users/ziyad/Projects/Tokenizer/Tokenizer/obj/Debug/Tokenizer.csprojAssemblyReference.cache
+/Users/ziyad/Projects/Tokenizer/Tokenizer/obj/Debug/Tokenizer.csproj.CoreCompileInputs.cache
+/Users/ziyad/Projects/Tokenizer/Tokenizer/obj/Debug/Tokenizer.exe
+/Users/ziyad/Projects/Tokenizer/Tokenizer/obj/Debug/Tokenizer.pdb
